@@ -1,0 +1,6 @@
+{
+  "name": "TrialFence Voice Studio",
+  "description": "AI voiceover direction, timing cue synchronization, and MP4 narration export for the TrialFence clinical trial privacy hook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
